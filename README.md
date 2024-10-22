@@ -1,6 +1,4 @@
-Here's a README template that includes details about how your portfolio project was built, its purpose, and a guide for future development. This structure emphasizes the technical aspects of your portfolio while maintaining a professional tone.
 
----
 
 # 🎨 Personal Portfolio
 
